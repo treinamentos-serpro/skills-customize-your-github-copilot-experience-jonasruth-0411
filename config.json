@@ -105,6 +105,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-error-handling",
+      "title": "Error Handling in Python",
+      "description": "Writing robust code with try/except, raise, and custom exceptions.",
+      "path": "assignments/python-error-handling",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
